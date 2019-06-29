@@ -1,0 +1,10 @@
+*****Patterns*****
+1. Frequency Counter: Create a counter object that can be used for comparison and identification
+2. Pointer : Create two pointer variables that can be used to calculate operations on two points of a list 
+3. Sliding window : Create two pointer (start and end of window) that can be used to get a subarray and then make calculation on the subarray
+4. Divide and Conquer
+
+
+**Rules of Thumb**
+1. if the problem deals with looping through all elements to find SOME particular elements. USE FREQUENCY COUNTER PATTERN
+2. If the problem deals with looping through all elements to find A particular element. USE POINTERS PATTERN
